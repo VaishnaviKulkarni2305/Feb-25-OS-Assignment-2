@@ -1,0 +1,40 @@
+Question 1: Write a shell script that prints "Hello, World!" to the terminal.  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch hello_world.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano hello_world.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x hello_world.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./hello_world.sh
+
+Hello, World!
+
+Question 2: Declare a variable named "name" and assign the value "CDAC Mumbai" to it. Print the  value of the variable.  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch print_name.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano print_name.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x print_name.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./print_name.sh
+
+CDAC Mumbai
+
+Question 3: Write a shell script that takes a number as input from the user and prints it.  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch print_number.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano print_number.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x print_number.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./print_number.sh
+
+Enter a number: 
+23
+You entered: 23
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % 
+
+
