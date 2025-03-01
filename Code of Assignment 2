@@ -37,4 +37,16 @@ Enter a number:
 You entered: 23
 vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % 
 
+Question 4: Write a shell script that performs addition of two numbers (e.g., 5 and 3) and prints the  result. 
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch add_numbers.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano add_numbers.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x add_numbers.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./add_numbers.sh
+
+The sum of 5 and 3 is: 8
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % 
 
