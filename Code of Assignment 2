@@ -108,3 +108,36 @@ vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./check_file.sh
 
 File exists
 
+Question 9: Write a shell script that uses the if statement to check if a number is greater than 10 and  prints a message accordingly.  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch check_number.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano check_number.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x check_number.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./check_number.sh
+
+Enter a number: 
+45
+The number 45 is greater than 10.
+
+Question 10: Write a shell script that uses nested for loops to print a multiplication table for numbers  from 1 to 5. The output should be formatted nicely, with each row representing a number and each  column representing the multiplication result for that number. 
+Question 11: Write a shell script that uses a while loop to read numbers from the user until the user enters  a negative number. For each positive number entered, print its square. Use the break statement to exit the  loop when a negative number is entered.  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch multiplication_table.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano multiplication_table.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x multiplication_table.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./multiplication_table.sh
+
+Multiplication Table (1 to 5):
+   1   2   3   4   5
+   2   4   6   8  10
+   3   6   9  12  15
+   4   8  12  16  20
+   5  10  15  20  25
+
+
