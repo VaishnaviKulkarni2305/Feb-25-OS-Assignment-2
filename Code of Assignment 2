@@ -79,8 +79,32 @@ vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./print_numbers.sh
 3
 4
 5
-6
-7
-8
-9
-10
+
+Question 7: Write a shell script that uses a while loop to print numbers from 1 to 5.
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch while_loop.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano while_loop.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x while_loop.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./while_loop.sh
+
+1
+2
+3
+4
+5
+
+Question 8: Write a shell script that checks if a file named "file.txt" exists in the current directory. If it  does, print "File exists", otherwise, print "File does not exist".  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch check_file.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano check_file.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x check_file.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./check_file.sh
+
+File exists
+
