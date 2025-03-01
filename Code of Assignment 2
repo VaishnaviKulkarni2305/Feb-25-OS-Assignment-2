@@ -64,3 +64,23 @@ Enter a number:
 5
 Odd
 
+Question 6: Write a shell script that uses a for loop to print numbers from 1 
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch print_numbers.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano print_numbers.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x print_numbers.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./print_numbers.sh
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
