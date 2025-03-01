@@ -50,3 +50,17 @@ vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./add_numbers.sh
 The sum of 5 and 3 is: 8
 vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % 
 
+Question 5: Write a shell script that takes a number as input and prints "Even" if it is even, otherwise  prints "Odd".  
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % touch even_odd.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % nano even_odd.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % chmod +x even_odd.sh
+
+vaishnavikulkarni@Vaishnavis-MacBook-Air ~ % ./even_odd.sh
+
+Enter a number: 
+5
+Odd
+
